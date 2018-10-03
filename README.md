@@ -9,7 +9,7 @@ To see the kitchen sink application, visit [example.cypress.io](https://example.
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
 
-## CI status
+## CI status 
 
 CI | Build status | basic config file | full parallel config
 :--- | :--- | :--- | :---
